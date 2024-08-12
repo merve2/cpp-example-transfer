@@ -1,0 +1,3 @@
+﻿  220504343_merve.aiseoglu.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: çözümlenmemiş dış sembol main için "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) işlevinde başvuruldu
+C:\Users\Merve\source\repos\220504343_merve.aiseoglu\x64\Debug\220504343_merve.aiseoglu.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
